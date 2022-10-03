@@ -5,10 +5,10 @@
     <br>
    <p>Kérlek töltsdki a felhasználónév, jelszó mezőt!</p>
     <hr>
-    <label for="Name"><b>Please Enter Name</b></label>
+    <label for="Name"><b>Enter Name</b></label>
     <input type="text" placeholder="Enter Name" name="name" id="name" required>
     <br>
-    <label for="email"><b>Please Enter Email</b></label>
+    <label for="email"><b>Enter Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
    
