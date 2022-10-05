@@ -5,8 +5,8 @@
     <br>
    <p>Kérlek töltsdki a felhasználónév, jelszó mezőt!</p>
     <hr>
-    <label for="Name"><b>Enter Name</b></label>
-    <input type="text" placeholder="Enter Name" name="name" id="name" required>
+    <label for="Name"><b>Enter Full Name</b></label>
+    <input type="text" placeholder="Enter Full Name" name="name" id="name" required>
     <br>
     <label for="email"><b>Enter Mobile phone number</b></label>
     <input type="text" placeholder="Enter mobile number" name="phone" id="phone" required>
